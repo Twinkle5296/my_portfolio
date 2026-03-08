@@ -5,6 +5,7 @@ import { FiInstagram } from "react-icons/fi";
 import { PERSONAL_INFO, SOCIAL_LINKS } from "../../utils/constants";
 import FadeIn from "../animations/FadeIn";
 import emailjs from "@emailjs/browser";
+import { SiLeetcode } from "react-icons/si";
 
 const Contacts = () => {
 
@@ -68,7 +69,8 @@ const Contacts = () => {
     github: Github,
     linkedin: Linkedin,
     twitter: FaXTwitter,
-    instagram: FiInstagram
+    instagram: FiInstagram,
+    leetcode:SiLeetcode
   };
 
 
@@ -208,7 +210,7 @@ const Contacts = () => {
             <div >
               <p className="text-sm text-white/60 mb-4">Connect with me</p>
               <div className="flex gap-4">
-                {Object.entries(SOCIAL_LINKS).slice(0, 4).map(([platform, url]) => {
+                {Object.entries(SOCIAL_LINKS).slice(0, 5).map(([platform, url]) => {
                   const Icon = socialIcons[platform];
                   return Icon ? (
                     <a key={platform}

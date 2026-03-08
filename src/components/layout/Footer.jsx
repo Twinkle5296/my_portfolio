@@ -8,6 +8,7 @@ import {
   Heart
 } from "lucide-react";
 import { FiInstagram } from "react-icons/fi";
+import { SiLeetcode } from "react-icons/si";
 
 import { PERSONAL_INFO, SOCIAL_LINKS, NAV_LINKS } from "../../utils/constants";
 import { scrollToSection } from "../../hooks/useScrollSpy";
@@ -18,7 +19,8 @@ const Footer = () => {
     github: Github,
     linkedin: Linkedin,
     twitter: Twitter,
-    instagram: FiInstagram
+    instagram: FiInstagram,
+    leetcode: SiLeetcode
 
   };
 

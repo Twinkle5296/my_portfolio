@@ -20,7 +20,8 @@ export const SOCIAL_LINKS = {
   github: 'https://github.com/Twinkle5296',
   linkedin: 'https://www.linkedin.com/in/twinklechavda',
   twitter: 'https://twitter.com/twinkle_5296',
-  instagram: 'https://www.instagram.com/t_w_i_n_k_l_e.123'
+  instagram: 'https://www.instagram.com/t_w_i_n_k_l_e.123',
+  leetcode:'https://leetcode.com/Twinkle_05'
 };
 
 export const STATS = [
