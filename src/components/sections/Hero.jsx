@@ -76,7 +76,7 @@ reduce downtime, and deliver measurable business impact.
                 </div>
                 {/*Image Container*/}
                 <div className='relative rounded-2xl overflow-hidden m-[1px] h-[calc(100%-2px)]'>
-                  <img src="/images/developer-portrait.png"
+                  <img src="/images/Developer4.png"
                     alt="Developer at Work"
                     className='w-full h-full object-cover'
                   />
