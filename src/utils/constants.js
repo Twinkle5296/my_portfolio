@@ -5,7 +5,7 @@ export const PERSONAL_INFO = {
   email: 'twinklechavda96@gmail.com',
   location: 'Canada',
   tagline: 'Building scalable, secure, and user-friendly web applications.',
-  resume: '/Twinkle Chavda.pdf',
+  resume: '/twinkle-chavda.pdf',
   bio: [
   "I am a Full Stack .NET Developer with over 4 years of experience building scalable, customer-facing web applications using C#, .NET Core, Angular, SQL Server, and AWS.",
 
