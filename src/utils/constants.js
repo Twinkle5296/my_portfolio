@@ -15,7 +15,6 @@ export const PERSONAL_INFO = {
 ]
 };
 
-
 export const SOCIAL_LINKS = {
   github: 'https://github.com/Twinkle5296',
   linkedin: 'https://www.linkedin.com/in/twinklechavda',
